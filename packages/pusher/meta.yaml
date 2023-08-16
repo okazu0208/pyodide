@@ -1,0 +1,7 @@
+requirements:
+  host:
+    # Dependencies that are needed to build the package
+    - pusher
+  run:
+    # Dependencies that are needed to run the package
+    - pusher
